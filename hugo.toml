@@ -1,0 +1,28 @@
+baseURL = 'http://blog.home.lab/'
+locale = 'ko-kr'
+title = 'Homelab Journal'
+theme = 'PaperMod'
+
+[params]
+  defaultTheme = 'auto'
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  ShowBreadCrumbs = true
+
+[[menu.main]]
+  identifier = 'posts'
+  name = '기술'
+  url = '/posts/'
+  weight = 10
+
+[[menu.main]]
+  identifier = 'docs'
+  name = '문서'
+  url = '/docs/'
+  weight = 20
+
+[[menu.main]]
+  identifier = 'archives'
+  name = '아카이브'
+  url = '/archives/'
+  weight = 30

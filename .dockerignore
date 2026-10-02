@@ -1,0 +1,6 @@
+.git
+.gitmodules
+themes
+content
+archetypes
+hugo.toml
