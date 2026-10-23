@@ -1,8 +1,9 @@
 +++
 date = '2026-10-23T14:52:28+09:00'
-draft = true
+draft = false
 title = 'Gitops'
 
 
-whsskglaemfek.
 +++
+
+일단 하긴 했는데 아직도 ㅈㄴ모르겠다 띠발 더 해봐야할 듯 하다.ㅠㅠ
