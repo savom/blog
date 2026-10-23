@@ -1,6 +1,6 @@
 +++
 date = '2026-10-01T17:44:54+09:00'
-draft = true
+draft = false
 title = 'K8s Quorum'
 +++
 

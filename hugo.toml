@@ -16,12 +16,6 @@ theme = 'PaperMod'
   weight = 10
 
 [[menu.main]]
-  identifier = 'docs'
-  name = '문서'
-  url = '/docs/'
-  weight = 20
-
-[[menu.main]]
   identifier = 'archives'
   name = '아카이브'
   url = '/archives/'
