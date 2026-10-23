@@ -1,6 +1,6 @@
 baseURL = 'https://chamchi-blog.duckdns.org/'
 locale = 'ko-kr'
-title = 'Homelab Journal'
+title = "chamchi's Blog"
 theme = 'PaperMod'
 
 [params]
